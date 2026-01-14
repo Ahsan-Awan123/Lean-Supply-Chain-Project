@@ -1,10 +1,10 @@
 # Lean-Supply-Chain-Project
 
-##Project Objective
+Project Objective
 
 The objective of this Lean process improvement project was to reduce Truck Turnaround Time (TTT) at a container terminal by identifying, quantifying, and eliminating non–value-added activities across gate, yard, and out-gate operations. The project focused on improving operational flow, throughput, and equipment effectiveness while minimizing delays caused by process inefficiencies and external dependencies.
 
-##Problem Statement
+Problem Statement
 
 -Truck Turnaround Time was significantly higher than the ideal benchmark due to:
 
@@ -19,7 +19,7 @@ The objective of this Lean process improvement project was to reduce Truck Turna
 -These inefficiencies resulted in congestion, lost capacity, increased waiting time, and reduced terminal productivity 
 
 
-##Scope of the Project
+Scope of the Project
 
 The analysis focused on Import Base (IB) and Reefer Export (RE) truck groups, which together represented the highest share of delivery volume and variability in TTT. The end-to-end process was segmented into:
 
@@ -33,7 +33,7 @@ The analysis focused on Import Base (IB) and Reefer Export (RE) truck groups, wh
 
 -Each segment was analyzed independently to isolate root causes and quantify delay impact.
 
-##Key KPIs and Measures
+Key KPIs and Measures
 
 -Truck Turnaround Time (TTT)
 
@@ -47,7 +47,7 @@ The analysis focused on Import Base (IB) and Reefer Export (RE) truck groups, wh
 
 -Insight: Out-Gate waiting time contributed disproportionately to total TTT
 
-##E-Gate / Out-Gate Transaction Time
+E-Gate / Out-Gate Transaction Time
 
 -Definition: Time required to complete gate transactions (with and without weighment)
 
@@ -57,7 +57,7 @@ The analysis focused on Import Base (IB) and Reefer Export (RE) truck groups, wh
 
 -Impact: Improved booth throughput and reduced queue buildup
 
-##Waiting Time at Out-Gate Queue
+Waiting Time at Out-Gate Queue
 
 -Definition: Idle time spent by trucks waiting for Out-Gate processing
 
@@ -69,7 +69,7 @@ The analysis focused on Import Base (IB) and Reefer Export (RE) truck groups, wh
 
 -Segment-Level Process Duration
 
-##Measures:
+Measures:
 
 -Yard2Truck → Weighment
 
@@ -81,7 +81,7 @@ The analysis focused on Import Base (IB) and Reefer Export (RE) truck groups, wh
 
 -Purpose: Identify bottlenecks and variability within each stage
 
-##Issue Frequency (Pareto Analysis)
+Issue Frequency (Pareto Analysis)
 
 -Definition: Count of repetitive issues delaying delivery
 
@@ -91,7 +91,7 @@ The analysis focused on Import Base (IB) and Reefer Export (RE) truck groups, wh
 
 -Outcome: Identified high-frequency, high-severity issues for prioritization
 
-##Issue Severity (Delay Impact)
+Issue Severity (Delay Impact)
 
 -Definition: Additional delay (in minutes) caused by each issue type
 
@@ -99,7 +99,7 @@ The analysis focused on Import Base (IB) and Reefer Export (RE) truck groups, wh
 
 -Tool Used: Box plots and severity segmentation
 
-##Throughput (Trucks per Hour per Booth)
+Throughput (Trucks per Hour per Booth)
 
 -Definition: Number of trucks processed per hour at gate booths
 
@@ -107,7 +107,7 @@ The analysis focused on Import Base (IB) and Reefer Export (RE) truck groups, wh
 
 -Result: Reduced transaction time directly increased throughput
 
-##Process Compliance & Behavioral Leakage
+Process Compliance & Behavioral Leakage
 
 -Measure: Unrecorded idle time and misuse of parking-charge loopholes
 
@@ -115,7 +115,7 @@ The analysis focused on Import Base (IB) and Reefer Export (RE) truck groups, wh
 
 -Outcome: Policy redesign recommendations to prevent system gaming
 
-##Lean & Analytics Techniques Used
+Lean & Analytics Techniques Used
 
 -Value Stream Mapping (VSM)
 
@@ -131,7 +131,7 @@ The analysis focused on Import Base (IB) and Reefer Export (RE) truck groups, wh
 
 -Root cause analysis across Man, Machine, Method, Material, Measurement
 
-##Business Impact
+Business Impact
 
 -Reduced Truck Turnaround Time
 
